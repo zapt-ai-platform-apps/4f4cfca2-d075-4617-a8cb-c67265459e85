@@ -1,28 +1,27 @@
 {
-  "name": "ciaa-platform",
+  "name": "ciaa-platform-solidjs",
   "version": "1.0.0",
-  "private": true,
+  "description": "Plataforma CIAA construída com SolidJS, Vite e Tailwind CSS",
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "export": "next export"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
-    "@sentry/node": "8.35.0",
-    "@sentry/react": "8.35.0",
-    "@supabase/auth-ui-react": "^0.4.5",
+    "solid-js": "^1.8.22",
     "@supabase/supabase-js": "^2.17.0",
-    "autoprefixer": "^10.4.47",
-    "next": "13.4.9",
-    "postcss": "^8.4.47",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "^3.4.13"
+    "@supabase/auth-ui-shared": "^0.1.8",
+    "@supabase/auth-ui-solid": "^0.3.8",
+    "@sentry/browser": "8.35.0",
+    "@solidjs/router": "^0.8.4",
+    "tailwindcss": "^3.4.13",
+    "solid-markdown": "^2.0.13"
   },
   "devDependencies": {
-    "eslint": "8.44.0",
-    "eslint-config-next": "13.4.9"
+    "vite": "^5.4.7",
+    "vite-plugin-solid": "^2.10.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.21"
   }
 }

@@ -5,7 +5,7 @@
 Nesta jornada, você irá:
 
 1. Criar uma nova conta na plataforma CIAA.
-2. Configurar autenticação multifator (MFA).
+2. Configurar a autenticação multifator (MFA).
 3. Realizar login usando reconhecimento facial ou de voz (opcional).
 
 ---
@@ -15,7 +15,7 @@ Nesta jornada, você irá:
 ### 1. Acessando a Página de Cadastro
 
 - Navegue para a página inicial da plataforma.
-- Clique no botão "Cadastre-se" localizado no canto superior direito.
+- Clique no botão **"Cadastre-se"** localizado no canto superior direito.
 
 ### 2. Preenchimento do Formulário de Cadastro
 
@@ -25,13 +25,13 @@ Nesta jornada, você irá:
   - **Senha** (deve atender aos critérios de segurança)
   - **Perfil de Usuário** (Estudante, Mentor, Empresa, Freelancer)
 - Aceite os termos e condições marcando a caixa correspondente.
-- Clique em "Criar Conta".
+- Clique em **"Criar Conta"**.
 
 ### 3. Configuração de Autenticação Multifator (MFA)
 
 - Após o cadastro, você será direcionado para configurar o MFA.
 - Escolha entre as opções disponíveis:
-  - **Autenticação via Aplicativo Móvel** (ex: Google Authenticator)
+  - **Aplicativo Autenticador** (ex: Google Authenticator)
   - **Autenticação Biométrica**:
     - **Reconhecimento Facial**
     - **Reconhecimento de Voz**
@@ -40,11 +40,11 @@ Nesta jornada, você irá:
 ### 4. Confirmação de Email
 
 - Um email de confirmação será enviado para o endereço fornecido.
-- Acesse seu email e clique no link de verificação.
+- Acesse seu email e clique no link de verificação para ativar sua conta.
 
 ### 5. Primeiro Login
 
-- Retorne à plataforma e clique em "Login".
+- Retorne à plataforma e clique em **"Login"**.
 - Insira seu email e senha cadastrados.
 - Complete a etapa de MFA escolhida:
   - Se optou por **Reconhecimento Facial**, permita o acesso à câmera e siga as instruções.

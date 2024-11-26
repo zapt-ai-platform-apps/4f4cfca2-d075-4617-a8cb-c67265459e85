@@ -5,26 +5,24 @@
 ### A. Valores Centrais
 
 - **Inovação**: A plataforma deve refletir tecnologia de ponta e criatividade.
-- **Eficiência**: Tarefas realizadas com o mínimo de esforço.
 - **Confiança**: Usuários devem se sentir no controle e informados.
+- **Simplicidade**: Reduzir a carga cognitiva para facilitar o uso.
 
 ### B. Prioridades de Design
 
 1. Impacto Visual
 2. Velocidade de Uso
-3. Flexibilidade
+3. Experiência do Usuário
 4. Acessibilidade
 5. Densidade de Informação
 6. Curva de Aprendizado
-7. Confiança do Usuário
+7. Flexibilidade
 
 ### C. Características-chave
 
 - **Experiência Guiada**
 - **Interações Ricas**
 - **Consistência nos Padrões**
-- **Feedback em Tempo Real**
-- **Funcionalidades Profundas**
 
 ## 2. Camada de Tema Visual
 
@@ -69,7 +67,7 @@
 - Cartões Informativos
 - Listas Interativas
 - Tabelas Dinâmicas
-- Apresentação de Mídia (RA/RV)
+- Apresentação de Mídia
 
 #### Componentes Interativos
 
@@ -114,7 +112,7 @@
 ## Processo de Aplicação
 
 1. **Definição da Estratégia**
-   - Valores centrais definidos com foco em inovação e eficiência.
+   - Valores centrais definidos com foco em inovação, confiança e simplicidade.
    - Prioridades estabelecidas para maximizar o impacto visual e a usabilidade.
 
 2. **Seleção de Tema**
